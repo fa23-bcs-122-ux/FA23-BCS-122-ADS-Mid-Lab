@@ -1,0 +1,35 @@
+[
+  {
+    "name": "HP Spectre x360 14",
+    "description": "Premium 2-in-1 laptop with 14-inch display.",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 1499.99,
+    "stock": 150,
+    "specs": {"ram_gb": 16, "storage_ssd_gb": 512, "processor": "Intel Core i7"},
+    "review_summary": {"average_rating": 4.7, "review_count": 92},
+    "purchase_count": 120
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "description": "Advanced wireless mouse for productivity.",
+    "category": "Electronics",
+    "brand": "Logitech",
+    "price": 99.99,
+    "stock": 300,
+    "specs": {"connectivity": "Bluetooth/USB", "dpi": 4000},
+    "review_summary": {"average_rating": 4.8, "review_count": 210},
+    "purchase_count": 450
+  },
+  {
+    "name": "The Pragmatic Programmer",
+    "description": "A classic book on software engineering.",
+    "category": "Books",
+    "brand": "Addison-Wesley",
+    "price": 45.50,
+    "stock": 100,
+    "specs": {"format": "Paperback", "pages": 352},
+    "review_summary": {"average_rating": 4.6, "review_count": 55},
+    "purchase_count": 75
+  }
+]
